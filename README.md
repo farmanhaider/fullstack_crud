@@ -10,9 +10,9 @@ first login to mysql db of your local host
 create databse name  :node_crud
 table name:users
 inside users table there is 5 fields
-fname
-lname
-address
+fname,
+lname,
+address,
 contact
 position
 
