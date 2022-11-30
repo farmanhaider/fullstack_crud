@@ -13,7 +13,7 @@ inside users table there is 5 fields
 fname,
 lname,
 address,
-contact
+contact,
 position
 
 
